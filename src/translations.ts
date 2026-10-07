@@ -3,6 +3,8 @@ import { AppItem, ProcessStep, ServiceItem } from './types';
 export const siteConfig = {
   name: 'Websiteable',
   arabicName: 'ويب سايتبل',
+  domain: 'websiteable.tech',
+  url: 'https://websiteable.tech',
   locationEn: 'Riyadh, Saudi Arabia',
   locationAr: 'الرياض، المملكة العربية السعودية',
   contactEmail: 'hello@websiteable.tech',
