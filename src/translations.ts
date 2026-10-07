@@ -5,7 +5,7 @@ export const siteConfig = {
   arabicName: 'ويب سايتبل',
   locationEn: 'Riyadh, Saudi Arabia',
   locationAr: 'الرياض، المملكة العربية السعودية',
-  contactEmail: 'hello@websiteable.com',
+  contactEmail: 'hello@websiteable.tech',
   whatsappNumber: '+966500000000',
   year: 2026,
 };
