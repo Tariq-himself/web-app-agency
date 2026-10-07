@@ -1,0 +1,6 @@
+{
+  "name": "Websiteable — Premium Software & Web Studio",
+  "description": "Websiteable is Riyadh's premium software and web studio. Bilingual Arabic and English. We design and engineer exceptional iOS apps, Android apps, and high-conversion websites.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
